@@ -14,7 +14,7 @@ Link:- https://assets.shiftr.io/js/mqtt-2.9.0.js
 
 ## 1. Paho JS Client Example
 ```
-<script src="./mqttws31js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/paho-mqtt/1.0.1/mqttws31.js"></script>
 client = new Paho.MQTT.Client(location.hostname, Number(location.port), "clientId");
 client.onConnectionLost = onConnectionLost;
 client.onMessageArrived = onMessageArrived;
