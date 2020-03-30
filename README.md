@@ -1,4 +1,4 @@
-# JavaScript client for Browsers
+# MQTT client for Browsers
 These are the MQTT browser-based client library written in Javascript that uses WebSockets to connect to an MQTT Broker.
 
 ## 1. Eclipse Paho JavaScript client
